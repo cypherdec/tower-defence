@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &745175509939077856
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3544906397414810753, guid: 9f75879591f4bf24a9adf81c0e58962c, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3544906397414810753, guid: 9f75879591f4bf24a9adf81c0e58962c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3544906397414810753, guid: 9f75879591f4bf24a9adf81c0e58962c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3544906397414810753, guid: 9f75879591f4bf24a9adf81c0e58962c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3544906397414810754, guid: 9f75879591f4bf24a9adf81c0e58962c, type: 3}
+      propertyPath: m_Name
+      value: Tile_road_corner_270
+      objectReference: {fileID: 0}
+    - target: {fileID: 8534739244667668271, guid: 9f75879591f4bf24a9adf81c0e58962c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 8534739244667668271, guid: 9f75879591f4bf24a9adf81c0e58962c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8534739244667668271, guid: 9f75879591f4bf24a9adf81c0e58962c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 8534739244667668271, guid: 9f75879591f4bf24a9adf81c0e58962c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8534739244667668271, guid: 9f75879591f4bf24a9adf81c0e58962c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 270
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9f75879591f4bf24a9adf81c0e58962c, type: 3}
